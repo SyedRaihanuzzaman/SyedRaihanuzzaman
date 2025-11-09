@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Syed Raihanuzzaman  
 
-🎯 **Trainee Flutter Developer | Mobile App Enthusiast | Problem Solver**
+🎯 **Trainee Flutter Developer | Mobile App Enthusiast | Problem Solver | Software Engineer**
 
 ---
 
