@@ -22,6 +22,8 @@
 - 🤖 Android Development (Java & Kotlin)  
 - ☁️ API Integration & Firebase  
 
+🌱 Always exploring new tools, frameworks, and best practices to deliver high-performance apps.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -50,15 +52,16 @@
 ## 📱 Featured Projects
 
 📌 **Task Manager App**  
-✅ Flutter app for managing daily tasks using **GetX** for efficient state management.
+![Task Manager GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+Flutter app for managing daily tasks using **GetX** for efficient state management.
 
 📌 **Weather Forecast App**  
-🌤️ Cross-platform app fetching real-time weather data using **REST APIs**.
+![Weather App GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)  
+Cross-platform app fetching real-time weather data using **REST APIs**.
 
 📌 **Notes App**  
-📝 Clean and simple note-taking app with full **CRUD functionality** and local storage.
-
-> 🔗 *Project links will be added once repositories are public.*
+![Notes App GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+Clean note-taking app with **CRUD functionality** and local storage.
 
 ---
 
@@ -70,6 +73,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight)
 
 </div>
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/SyedRaihanuzzaman/SyedRaihanuzzaman/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
