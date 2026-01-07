@@ -1,45 +1,61 @@
-# 👋 Hi, I'm Syed Raihanuzzaman  
+# 👋 Hi, I'm Syed Raihanuzzaman
 
-🎯 **Trainee Flutter Developer | Mobile App Enthusiast | Problem Solver | Software Engineer**
-
----
-
-### 🚀 About Me  
-I’m a passionate **Flutter Developer** who loves building modern, efficient, and user-friendly mobile applications.  
-I enjoy solving complex problems, writing clean code, and learning new technologies to improve my craft.
-
-💡 Currently improving my skills in:
-- Flutter & Dart  
-- State Management (GetX)  
-- Android Development (Java & Kotlin)  
-- API Integration & Firebase  
-
-🌱 I’m always exploring new tools, frameworks, and best practices to enhance mobile development performance and scalability.
+🎯 **Trainee Flutter Developer | Mobile App Enthusiast | Software Engineer**
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Dart, Java, Kotlin  
-**Frameworks:** Flutter, Android SDK  
-**State Management:** GetX  
-**Tools:** Git, VS Code, Android Studio, Firebase, REST APIs  
+## 🚀 About Me
+I’m a passionate **Flutter Developer** focused on building **modern, scalable, and user-friendly mobile applications**.  
+I enjoy solving real-world problems, writing clean maintainable code, and continuously improving my development skills.
+
+🔍 Currently focusing on:
+- Flutter & Dart
+- State Management (GetX)
+- Android Development (Java & Kotlin)
+- API Integration & Firebase
+
+🌱 Always learning new tools, frameworks, and best practices to deliver high-performance mobile apps.
 
 ---
 
-### 📱 Featured Projects  
-🔹 **Task Manager App** — A Flutter app to manage daily tasks using GetX for state management.  
-🔹 **Weather Forecast App** — Cross-platform app fetching live weather data from an API.  
-🔹 **Notes App** — CRUD-based note-taking app with local data storage.  
+## 🛠️ Tech Stack
 
-*(Add links to your repositories when they’re public!)*  
+**Languages**  
+- Dart, Java, Kotlin  
+
+**Frameworks & SDKs**  
+- Flutter, Android SDK  
+
+**State Management**  
+- GetX  
+
+**Tools & Services**  
+- Git, VS Code, Android Studio  
+- Firebase, REST APIs  
 
 ---
 
-### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/syed-raihanuzzaman/)  
-- 💻 [GitHub](https://github.com/SyedRaihanuzzaman)  
-- ✉️ Email: [syed.shawon04@gmail.com]
+## 📱 Featured Projects
+
+🔹 **Task Manager App**  
+Flutter-based task management app using GetX for efficient state management.
+
+🔹 **Weather Forecast App**  
+Cross-platform app that fetches real-time weather data via REST APIs.
+
+🔹 **Notes App**  
+Simple and clean note-taking app with full CRUD functionality and local storage.
+
+> 📌 *Repository links will be added as projects become public.*
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*  
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** [syed-raihanuzzaman](https://www.linkedin.com/in/syed-raihanuzzaman/)
+- 💻 **GitHub:** [SyedRaihanuzzaman](https://github.com/SyedRaihanuzzaman)
+- ✉️ **Email:** syed.shawon04@gmail.com
+
+---
+
+⭐ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
