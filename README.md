@@ -49,14 +49,12 @@
 
 ## 📱 Featured Projects
 
-📌 **Task Manager App**  
-✅ Flutter app for managing daily tasks using **GetX** for efficient state management.
+📌 ** Nomade SASU MAIN2 App**  
+✅ MAIN² is a secure digital assistant that streamlines administrative tasks. It offers encrypted document storage, AI-powered OCR for auto-filling forms, and automated workflows for verification, e-signatures, and submissions. The platform integrates with key public agencies (CAF, URSSAF, Tax Office), ensures strong authentication via FranceConnect and eIDAS, and supports secure document sharing. Its scalable cloud architecture enables modular growth, helping individuals and small businesses save time, reduce errors, and stay compliant.
 
-📌 **Weather Forecast App**  
-🌤️ Cross-platform app fetching real-time weather data using **REST APIs**.
+📌 **Business Connection platform App**  
+✅ A platform connecting businesses through a verified system, allowing them to post needs or offers and find matching partners. Features include account verification, business profile management, role-switching, location/type filters, messaging with file sharing, and AI-powered matchmaking with ratings for trust. Future plans include subscription-based services to streamline business interactions and create an efficient marketplace..
 
-📌 **Notes App**  
-📝 Clean and simple note-taking app with full **CRUD functionality** and local storage.
 
 > 🔗 *Project links will be added once repositories are public.*
 
