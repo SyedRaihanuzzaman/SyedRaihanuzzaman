@@ -62,20 +62,30 @@
 
 <div align="center">
 
+---
+
 ## 📊 GitHub Stats
 
-### **Option 1: GitHub Readme Stats** (Primary)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight&hide_border=true)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=SyedRaihanuzzaman&theme=tokyonight&hide_border=true)
 
-### **Option 2: Alternative Stats Service** (Backup)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedRaihanuzzaman&theme=tokyonight" alt="Stats" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedRaihanuzzaman&theme=tokyonight" alt="Top Languages" width="45%" />
+### 📈 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedRaihanuzzaman&theme=tokyonight" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedRaihanuzzaman&theme=tokyonight" height="180em" />
 
-### **Option 3: Simple Streak Stats**
-![GitHub Streak](https://streak-stats.demolab.com?user=SyedRaihanuzzaman&theme=tokyonight&hide_border=true)
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=SyedRaihanuzzaman&theme=onedark&row=2&column=3)
 
+</div>
+
+---
+
+<div align="center">
+  
+**Profile Views:** ![](https://komarev.com/ghpvc/?username=SyedRaihanuzzaman&color=blue)
+  
 </div>
 
 
