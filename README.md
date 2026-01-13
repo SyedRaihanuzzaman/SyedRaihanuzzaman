@@ -131,7 +131,7 @@ Platform connecting businesses with:
 
 ---
 
-## 💡 Development Philosophy
+### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=dev" alt="Random Dev Quote" />
 </p>
