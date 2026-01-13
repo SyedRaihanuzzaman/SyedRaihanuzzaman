@@ -61,14 +61,16 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://streak-stats.demolab.com?user=SyedRaihanuzzaman&theme=tokyonight" height="160"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=SyedRaihanuzzaman&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight"/>
+  <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
