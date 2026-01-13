@@ -133,8 +133,9 @@ Platform connecting businesses with:
 
 ## 💡 Development Philosophy
 <p align="center">
-<i>"Write code that is not just functional, but also elegant and maintainable."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=dev" alt="Random Dev Quote" />
 </p>
+
 
 ---
 
