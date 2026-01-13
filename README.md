@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -63,20 +64,53 @@
   <img width="60%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight"/>
 </p>
 
+<!-- Optional Animated Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedRaihanuzzaman&theme=github-dark&area=true&hide_border=true&color=58a6ff"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 📱 Nomade SASU MAIN²
 Secure digital assistant with:
 - AI OCR
-- encrypted storage
-- automated workflows
+- Encrypted storage
+- Automated workflows  
+
+**Tech:** 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=swagger&logoColor=white"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
 
 ### 💼 Business Connection Platform
-- Real-time messaging  
-- AI partner matching  
-- role-switching system  
+Platform connecting businesses with:
+- Real-time messaging
+- AI partner matching
+- Role-switching system  
+
+**Tech:** 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
