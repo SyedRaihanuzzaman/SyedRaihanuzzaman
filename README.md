@@ -64,8 +64,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight&count_private=true)
+
 
 </div>
 
