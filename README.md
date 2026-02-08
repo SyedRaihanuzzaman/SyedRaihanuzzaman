@@ -6,7 +6,7 @@
 ---
 
 ## 💫 About Me
-🎯 Trainee Flutter Developer @ JVAI  
+🎯 Junior Flutter Developer @ JVAI  
 📱 Mobile App Enthusiast  
 ✨ Creating elegant, scalable mobile solutions  
 
