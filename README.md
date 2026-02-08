@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Trainee+Flutter+Developer+%40+JVAI;Mobile+App+Enthusiast;Building+Cross+Platform+Apps;Passionate+about+Clean+Architecture;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Flutter+Developer+%40+JVAI;Mobile+App+Enthusiast;Building+Cross+Platform+Apps;Passionate+about+Clean+Architecture;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
 ---
