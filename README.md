@@ -1,6 +1,6 @@
 # <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Flutter+Developer+%40+JVAI;Mobile+App+Enthusiast;Building+Cross+Platform+Apps;Passionate+about+Clean+Architecture;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Flutter+Developer+%40+JVAI;Mobile+App+Enthusiast;Building+Scalable+Apps;ML+%26+Real-Time+Systems"/>
 </p>
 
 ---
@@ -64,6 +64,16 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Skills Proficiency
+
+<p align="center">
+<img src="https://img.shields.io/badge/🟢%20Expert-Flutter%20%7C%20Dart%20%7C%20Firebase-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🟡%20Intermediate-Kotlin%20%7C%20Python%20%7C%20GetX-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔵%20Familiar-Java%20%7C%20JavaScript%20%7C%20REST%20APIs-0066CC?style=for-the-badge"/>
 </p>
 
 ---
@@ -177,6 +187,16 @@ Daffodil International University
 <img src="https://img.shields.io/badge/Clean%20Architecture-Flutter-61DAFB?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/MVVM-Pattern-FF6F61?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/API%20Integration-REST%20%2F%20GraphQL-005571?style=for-the-badge"/>
+</p>
+
+---
+
+## 📬 Open to Opportunities
+
+<p align="center">
+<img src="https://img.shields.io/badge/💼-Contract%2FFreelance%20Flutter%20Projects-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤝-Open%20Source%20Collaboration-4ECDC4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯-Full-Time%20Flutter%20Developer%20Roles-95E1D3?style=for-the-badge"/>
 </p>
 
 ---
