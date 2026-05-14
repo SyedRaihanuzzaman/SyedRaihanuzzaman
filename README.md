@@ -13,7 +13,7 @@
 📍 Mohammadpur, Dhaka
 
 🚀 Currently working with:
-- Flutter & Dart — MVC/MVVM, GetX state management
+- Flutter & Dart — MVC/MVVM,BLOC, GetX state management
 - Real-time systems — WebSocket, Django Channels, FCM
 - ML integrations — Face Recognition, NID Document Verification
 - Firebase — FCM, Cloud Storage, Push Notifications
