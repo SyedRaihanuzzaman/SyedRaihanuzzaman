@@ -152,16 +152,16 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SyedRaihanuzzaman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=SyedRaihanuzzaman&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedRaihanuzzaman&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedRaihanuzzaman&theme=github-dark&area=true&hide_border=true&color=58a6ff&line=58a6ff&point=ffffff"/>
+  <img src="https://raw.githubusercontent.com/SyedRaihanuzzaman/SyedRaihanuzzaman/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
