@@ -115,7 +115,7 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 | 🏷️ Area | 📋 Details |
 |:-------:|:----------|
-| 🔌 **Real-Time Systems** | WebSocket-based AI chatbot & 1:1 messaging |
+| 🔌 **Real-Time Systems** | WebSocket-based AI chatbot & 1:1 messaging  |
 | 🤖 **ML Integration** | Face recognition & NID document verification |
 | ☁️ **Cloud Services** | Firebase FCM, push notifications, cloud storage |
 | 🔗 **API Architecture** | Scalable REST API layers using Dio & HTTP |
