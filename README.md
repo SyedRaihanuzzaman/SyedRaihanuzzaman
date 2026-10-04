@@ -3,8 +3,10 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=99999&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Syed+Raihanuzzaman" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=60&lines=🚀+Building+Cross-Platform+Mobile+Apps;📱+Flutter+%7C+Dart+%7C+GetX+%7C+BLoC;⚡+Real-Time+Systems+%7C+WebSocket+%7C+Django;🤖+ML+Integration+%7C+Face+Recognition;🏪+Published+on+Play+Store+%26+App+Store;🎯+Clean+Architecture+%7C+MVC%2FMVVM+%7C+REST+APIs" />
+<!-- Role Badges -->
+![Flutter Dev](https://img.shields.io/badge/📱_Flutter_Developer-Cross_Platform_Mobile-02569B?style=for-the-badge)
+![Published](https://img.shields.io/badge/🏪_Published-Play_Store_&_App_Store-414141?style=for-the-badge)
+![Real-Time](https://img.shields.io/badge/⚡_Real--Time-WebSocket_&_ML_Integration-58A6FF?style=for-the-badge)
 
 <br/>
 
@@ -260,6 +262,7 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 <br/>
 
 ---
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=99999&color=58A6FF&center=true&vCenter=true&width=900&height=40&lines=⭐+If+you+find+my+work+interesting%2C+feel+free+to+connect!" />
+
+**⭐ If you find my work interesting, feel free to connect!**
 
 </div>
