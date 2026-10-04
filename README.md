@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=99999&color=58A6FF&center=true&vCenter=true&width=900&height=100&lines=Syed+Raihanuzzaman" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Syed+Raihanuzzaman+👋;Junior+Flutter+Developer+%7C+Mobile+App+Engineer" />
 
 <!-- Role Badges -->
 ![Flutter Dev](https://img.shields.io/badge/📱_Flutter_Developer-Cross_Platform_Mobile-02569B?style=for-the-badge)
