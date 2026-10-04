@@ -89,40 +89,73 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 ## 🛠️ Tech Arsenal
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+<!-- 📱 MOBILE & LANGUAGES — flat style, cool tones -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━%20📱%20MOBILE%20%26%20LANGUAGES%20━━━━━━━━━━-02569B?style=for-the-badge&labelColor=02569B"/>
+
+<br/><br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ⚙️ FRAMEWORKS — social style, warm tones -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━%20⚙️%20FRAMEWORKS%20%26%20STATE%20MANAGEMENT%20━━━━━━━━━━-8A2BE2?style=for-the-badge&labelColor=8A2BE2"/>
+
+<br/><br/>
+
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=social&logo=flutter)
+&nbsp;&nbsp;
+![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=social&logo=flutter)
+&nbsp;&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=social&logo=firebase)
+&nbsp;&nbsp;
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=social&logo=socket.io)
+&nbsp;&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-005571?style=social&logo=swagger)
+&nbsp;&nbsp;
+![JWT](https://img.shields.io/badge/JWT-000000?style=social&logo=jsonwebtokens)
+&nbsp;&nbsp;
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=social&logo=dart)
+
+</div>
+
+<br/>
+
+<!-- 🗄️ DATABASES & TOOLS — plastic style, green/warm tones -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━%20🗄️%20DATABASES%20%26%20TOOLS%20━━━━━━━━━━-27AE60?style=for-the-badge&labelColor=27AE60"/>
+
+<br/><br/>
+
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=plastic&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
+
 </div>
 
 <div align="center">
-
-**📱 Mobile & Languages**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**⚙️ Frameworks & State Management**
-
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white)
-
-**🗄️ Databases & Tools**
-
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
 ---
