@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Syed+Raihanuzzaman+👋;Junior+Flutter+Developer+%7C+Mobile+App+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Syed+Raihanuzzaman;Junior+Flutter+Developer+%40+JVAI;Building+Cross-Platform+Mobile+Apps;Published+on+Play+Store+%26+App+Store" />
 
 <!-- Role Badges -->
 ![Flutter Dev](https://img.shields.io/badge/📱_Flutter_Developer-Cross_Platform_Mobile-02569B?style=for-the-badge)
@@ -115,7 +115,7 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 | 🏷️ Area | 📋 Details |
 |:-------:|:----------|
-| 🔌 **Real-Time Systems** | WebSocket-based AI chatbot & 1:1 messaging  |
+| 🔌 **Real-Time Systems** | WebSocket-based AI chatbot & 1:1 messaging |
 | 🤖 **ML Integration** | Face recognition & NID document verification |
 | ☁️ **Cloud Services** | Firebase FCM, push notifications, cloud storage |
 | 🔗 **API Architecture** | Scalable REST API layers using Dio & HTTP |
