@@ -6,27 +6,49 @@
 <!-- Animated Name -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Syed+Raihanuzzaman;Junior+Flutter+Developer+%40+JVAI;Building+Cross-Platform+Mobile+Apps;Published+on+Play+Store+%26+App+Store" />
 
-<!-- Role Badges -->
-![Flutter Dev](https://img.shields.io/badge/📱_Flutter_Developer-Cross_Platform_Mobile-02569B?style=for-the-badge)
-![Published](https://img.shields.io/badge/🏪_Published-Play_Store_&_App_Store-414141?style=for-the-badge)
-![Real-Time](https://img.shields.io/badge/⚡_Real--Time-WebSocket_&_ML_Integration-58A6FF?style=for-the-badge)
+<!-- Speciality Tags — each domain color-coded -->
+<img src="https://img.shields.io/badge/📱%20Mobile-Flutter%20%7C%20Dart%20%7C%20Android%20%7C%20iOS-02569B?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Real--Time-WebSocket%20%7C%20Django%20Channels-FF6B35?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🤖%20ML-Face%20Recognition%20%7C%20Doc%20Verify-9B59B6?style=for-the-badge&labelColor=0d1117"/>
 
 <br/>
 
-<!-- Social Badges -->
+<img src="https://img.shields.io/badge/🏗️%20Architecture-GetX%20%7C%20BLoC%20%7C%20MVC%2FMVVM-27AE60?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🚀%20Shipped-Play%20Store%20%26%20App%20Store-E74C3C?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/☁️%20Cloud-Firebase%20%7C%20FCM%20%7C%20JWT-F39C12?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- Social Links — each distinctly labeled -->
 <a href="https://www.linkedin.com/in/syed-raihanuzzaman/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 </a>
+&nbsp;
 <a href="https://github.com/SyedRaihanuzzaman">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 </a>
+&nbsp;
 <a href="mailto:syed.shawon04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
 </a>
+&nbsp;
 <a href="https://www.facebook.com/syed.shawon.71/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2"/>
 </a>
 
+<br/><br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
