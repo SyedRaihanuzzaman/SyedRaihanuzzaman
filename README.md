@@ -1,6 +1,9 @@
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- Wave Header -->
+<img width="100%" src="https://raw.githubusercontent.com/SyedRaihanuzzaman/SyedRaihanuzzaman/main/wave_header.svg"/>
+
+<!-- Animated Name -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Syed+Raihanuzzaman;Junior+Flutter+Developer+%40+JVAI;Building+Cross-Platform+Mobile+Apps;Published+on+Play+Store+%26+App+Store" />
 
 <!-- Role Badges -->
@@ -258,7 +261,7 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 <br/>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/SyedRaihanuzzaman/SyedRaihanuzzaman/main/wave_footer.svg"/>
 
 **⭐ If you find my work interesting, feel free to connect!**
 
