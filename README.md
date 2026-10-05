@@ -160,127 +160,172 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 ---
 
+<!-- ═══════════════ WORK EXPERIENCE ═══════════════ -->
 <div align="center">
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF6B35?style=for-the-badge&labelColor=FF6B35"/>
 
 ## 💼 Work Experience
 
-### 🏢 Junior Flutter Developer — Join Venture AI
-**Oct 2025 – Present**
+<img src="https://img.shields.io/badge/🏢%20Join%20Venture%20AI-Junior%20Flutter%20Developer-FF6B35?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📅%20Oct%202025-Present-27AE60?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20Dhaka-Bangladesh-E74C3C?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="140"><img src="https://img.shields.io/badge/🔌-Real--Time-FF6B35?style=flat-square"/></td>
+<td>WebSocket-based AI chatbot & 1:1 messaging system</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🤖-ML%20Integration-9B59B6?style=flat-square"/></td>
+<td>Face recognition & NID document verification</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/☁️-Cloud-3498DB?style=flat-square"/></td>
+<td>Firebase FCM, push notifications, cloud storage</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🔗-API%20Layer-27AE60?style=flat-square"/></td>
+<td>Scalable REST API architecture using Dio & HTTP</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/📷-Hardware-F39C12?style=flat-square"/></td>
+<td>Camera, microphone & audio API integration</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🚀-Deployment-E74C3C?style=flat-square"/></td>
+<td>End-to-end Play Store & App Store submission & release</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-FF6B35?style=for-the-badge&labelColor=FF6B35"/>
 
 </div>
 
+<br/>
+
+<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
 <div align="center">
 
-| 🏷️ Area | 📋 Details |
-|:-------:|:----------|
-| 🔌 **Real-Time Systems** | WebSocket-based AI chatbot & 1:1 messaging |
-| 🤖 **ML Integration** | Face recognition & NID document verification |
-| ☁️ **Cloud Services** | Firebase FCM, push notifications, cloud storage |
-| 🔗 **API Architecture** | Scalable REST API layers using Dio & HTTP |
-| 📷 **Hardware Integration** | Camera, microphone & audio API integration |
-| 🚀 **App Deployment** | End-to-end Play Store & App Store submission & release |
-
-</div>
-
----
-
-<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-9B59B6?style=for-the-badge&labelColor=9B59B6"/>
 
 ## 🚀 Featured Projects
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<!-- PROJECT 1: Pearii — pink/health theme -->
+<div align="center">
 
-### 🩺 Pearii — Women's Health & Wellness
+<img src="https://img.shields.io/badge/🩺%20PROJECT%2001-Pearii%20—%20Women's%20Health%20%26%20Wellness%20Platform-E91E8C?style=for-the-badge&labelColor=0d1117"/>
 
-> *AI-powered health companion (Android & iOS)*
+<br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.pearii.health">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play-Get_It-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://apps.apple.com/us/app/pearii/id6785532553">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 
-**Stack:**
+<br/><br/>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
+![AI Chatbot](https://img.shields.io/badge/AI_Chatbot-E91E8C?style=flat-square&logo=openai&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
 
-- 🔄 Menstrual cycle tracking with analytical insights
-- 🏋️ Personalized fitness & nutrition guidance
-- 🤖 AI chatbot for real-time health support
-- 📚 Peariipedia content library & podcasts
-- 🖥️ Web-based admin panel
+</div>
 
-</td>
-<td width="50%" valign="top">
+| Feature | Details |
+|:--------|:--------|
+| 🔄 **Cycle Tracking** | Menstrual cycle tracking with analytical health insights |
+| 🏋️ **Fitness & Nutrition** | Personalized modules with tailored workout & dietary guidance |
+| 🤖 **AI Chatbot** | Real-time AI-powered health guidance & support |
+| 📚 **Education** | Peariipedia content library & podcast integration |
+| 🖥️ **Admin Panel** | Web-based panel for content & user management |
 
-### 💼 Anexo — B2B Connection Platform
+<br/>
 
-> *Verified B2B networking & transactions platform*
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<br/>
+
+<!-- PROJECT 2: Anexo — blue/business theme -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/💼%20PROJECT%2002-Anexo%20—%20B2B%20Business%20Connection%20Platform-0A66C2?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.anexousa.app">
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play-Get_It-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://apps.apple.com/us/app/anexo-b2b/id6787458141">
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 
-**Stack:**
+<br/><br/>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![FCM](https://img.shields.io/badge/FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-- ✅ Email OTP + document identity verification
-- 🔄 Dynamic Personal/Business profile switching
-- 💬 Real-time chat with optimistic UI & FCM
-- 🏪 Offers & Needs marketplace + proposals
-- 🔍 Advanced search & social follow system
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+| Feature | Details |
+|:--------|:--------|
+| ✅ **Verification** | Email OTP + document identity validation (trade licenses/IDs) |
+| 🔄 **Profile Switching** | Dynamic Personal/Business profiles with isolated permissions |
+| 💬 **Real-Time Chat** | WebSocket (Django Channels) with optimistic UI & FCM notifications |
+| 🏪 **Marketplace** | Offers & Needs listings with proposal request system |
+| 🔍 **Discovery** | Advanced business search, filtering & social follow system |
 
-### 👗 MyClosely — Wardrobe Intelligence
+<br/>
 
-> *Premium wardrobe cataloging & styling platform*
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-**Stack:**
+<br/>
+
+<!-- PROJECT 3: MyClosely — purple/fashion theme -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/👗%20PROJECT%2003-MyClosely%20—%20Wardrobe%20Intelligence%20Platform-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![ScreenUtil](https://img.shields.io/badge/ScreenUtil-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=google&logoColor=white)
 
-- 🧬 Styling DNA tracker with `RxSet`/`Obx` reactive state
-- 📷 Camera Scanner Workflow with custom views
-- 🪟 Glassmorphic UI with `BackdropFilter` blurs
-- 🗂️ Modular GetX routing with lazy-loaded bindings
+</div>
 
-</td>
-<td width="50%" valign="top">
+| Feature | Details |
+|:--------|:--------|
+| 🧬 **Styling DNA** | Reactive tracker using `RxSet`/`Obx` with dynamic multi-select chips |
+| 📷 **Camera Scanner** | Custom camera views & state-based scanning animations |
+| 🪟 **Glassmorphic UI** | `BackdropFilter` blurs & fine-tuned system overlays |
+| 🗂️ **GetX Routing** | Modular screen routing with lazy-loaded bindings & decoupled controllers |
 
-### 🎓 Education
-
-**BSc in Computer Science & Engineering**
-🏫 Daffodil International University
-📅 2018 – 2022
-🏆 CGPA: 3.40 / 4.00
-
-**📚 Currently Learning:**
-- Clean Architecture (Flutter)
-- Advanced BLoC Patterns
-- CI/CD — Fastlane & GitHub Actions
-- GraphQL API Integration
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-9B59B6?style=for-the-badge&labelColor=9B59B6"/>
+</div>
 
 ---
 
