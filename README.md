@@ -217,64 +217,62 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 </div>
 
+<table align="center" width="100%">
+<tr>
+
 <!-- PROJECT 1: Pearii — pink/health theme -->
+<td width="50%" valign="top">
 <div align="center">
 
-<img src="https://img.shields.io/badge/🩺%20PROJECT%2001-Pearii%20—%20Women's%20Health%20%26%20Wellness%20Platform-E91E8C?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🩺%20PROJECT%2001-E91E8C?style=for-the-badge&labelColor=0d1117"/>
 
-<br/><br/>
+**Pearii — Women's Health & Wellness**
+
+*AI-powered health companion (Android & iOS)*
 
 <a href="https://play.google.com/store/apps/details?id=com.pearii.health">
-  <img src="https://img.shields.io/badge/Google_Play-Get_It-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://apps.apple.com/us/app/pearii/id6785532553">
-  <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=swagger&logoColor=white)
 ![AI Chatbot](https://img.shields.io/badge/AI_Chatbot-E91E8C?style=flat-square&logo=openai&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
-| Feature | Details |
-|:--------|:--------|
-| 🔄 **Cycle Tracking** | Menstrual cycle tracking with analytical health insights |
-| 🏋️ **Fitness & Nutrition** | Personalized modules with tailored workout & dietary guidance |
-| 🤖 **AI Chatbot** | Real-time AI-powered health guidance & support |
-| 📚 **Education** | Peariipedia content library & podcast integration |
-| 🖥️ **Admin Panel** | Web-based panel for content & user management |
+- 🔄 Menstrual cycle tracking with analytical insights
+- 🏋️ Personalized fitness & nutrition guidance
+- 🤖 AI chatbot for real-time health support
+- 📚 Peariipedia content library & podcasts
+- 🖥️ Web-based admin panel
 
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
+</td>
 
 <!-- PROJECT 2: Anexo — blue/business theme -->
+<td width="50%" valign="top">
 <div align="center">
 
-<img src="https://img.shields.io/badge/💼%20PROJECT%2002-Anexo%20—%20B2B%20Business%20Connection%20Platform-0A66C2?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/💼%20PROJECT%2002-0A66C2?style=for-the-badge&labelColor=0d1117"/>
 
-<br/><br/>
+**Anexo — B2B Business Connection Platform**
+
+*Verified B2B networking & transactions platform*
 
 <a href="https://play.google.com/store/apps/details?id=com.anexousa.app">
-  <img src="https://img.shields.io/badge/Google_Play-Get_It-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 </a>
-&nbsp;
 <a href="https://apps.apple.com/us/app/anexo-b2b/id6787458141">
-  <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
@@ -285,28 +283,27 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 </div>
 
-| Feature | Details |
-|:--------|:--------|
-| ✅ **Verification** | Email OTP + document identity validation (trade licenses/IDs) |
-| 🔄 **Profile Switching** | Dynamic Personal/Business profiles with isolated permissions |
-| 💬 **Real-Time Chat** | WebSocket (Django Channels) with optimistic UI & FCM notifications |
-| 🏪 **Marketplace** | Offers & Needs listings with proposal request system |
-| 🔍 **Discovery** | Advanced business search, filtering & social follow system |
+- ✅ Email OTP + document identity verification
+- 🔄 Dynamic Personal/Business profile switching
+- 💬 Real-time chat with optimistic UI & FCM
+- 🏪 Offers & Needs marketplace + proposals
+- 🔍 Advanced search & social follow system
 
-<br/>
+</td>
+</tr>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-<br/>
-
+<tr>
 <!-- PROJECT 3: MyClosely — purple/fashion theme -->
+<td width="50%" valign="top">
 <div align="center">
 
-<img src="https://img.shields.io/badge/👗%20PROJECT%2003-MyClosely%20—%20Wardrobe%20Intelligence%20Platform-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/👗%20PROJECT%2003-8A2BE2?style=for-the-badge&labelColor=0d1117"/>
 
-<br/><br/>
+**MyClosely — Wardrobe Intelligence Platform**
+
+*Premium wardrobe cataloging & styling*
+
+<br/>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
@@ -316,12 +313,38 @@ class SyedRaihanuzzaman extends FlutterDeveloper {
 
 </div>
 
-| Feature | Details |
-|:--------|:--------|
-| 🧬 **Styling DNA** | Reactive tracker using `RxSet`/`Obx` with dynamic multi-select chips |
-| 📷 **Camera Scanner** | Custom camera views & state-based scanning animations |
-| 🪟 **Glassmorphic UI** | `BackdropFilter` blurs & fine-tuned system overlays |
-| 🗂️ **GetX Routing** | Modular screen routing with lazy-loaded bindings & decoupled controllers |
+- 🧬 Styling DNA tracker with `RxSet`/`Obx` reactive state
+- 📷 Camera Scanner Workflow with custom views
+- 🪟 Glassmorphic UI with `BackdropFilter` blurs
+- 🗂️ Modular GetX routing with lazy-loaded bindings
+
+</td>
+
+<!-- Education -->
+<td width="50%" valign="top">
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓%20EDUCATION-27AE60?style=for-the-badge&labelColor=0d1117"/>
+
+**BSc in Computer Science & Engineering**
+
+🏫 Daffodil International University
+📅 2018 – 2022 &nbsp;|&nbsp; 🏆 CGPA: 3.40 / 4.00
+
+<br/>
+
+<img src="https://img.shields.io/badge/📚%20Currently%20Learning-F39C12?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+- 🏗️ Clean Architecture (Flutter)
+- 🔵 Advanced BLoC Patterns
+- 🚀 CI/CD — Fastlane & GitHub Actions
+- 🔗 GraphQL API Integration
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-9B59B6?style=for-the-badge&labelColor=9B59B6"/>
